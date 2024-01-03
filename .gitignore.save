@@ -1,0 +1,13 @@
+
+# Swift Package Manager
+.build/
+
+# Fastlane
+fastlane/report.xml
+fastlane/Preview.html
+
+# AppCode
+.idea/
+
+# macOS
+*.DS_Stor
